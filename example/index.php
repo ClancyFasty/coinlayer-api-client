@@ -1,8 +1,8 @@
 <?php
 require_once '../src/CoinLayerAPI.php';
 
-// Imprimir el valor de BTC
+// Print the value of BTC
 CoinLayerAPI::displayRate('BTC');
 
-// Imprimir el valor de ETH
+// Print the value of ETH
 CoinLayerAPI::displayRate('ETH');
