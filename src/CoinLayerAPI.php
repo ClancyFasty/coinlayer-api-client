@@ -1,7 +1,7 @@
 <?php
 
 class CoinLayerAPI {
-    private const API_URL = "http://api.coinlayer.com/live?access_key=1ac3f3b3fc4d4601c51059652a85b6ce";
+    private const API_URL = "http://api.coinlayer.com/live?access_key=#";
 
     /**
      * Method to get the live data from the CoinLayer API
